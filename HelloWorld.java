@@ -23,12 +23,8 @@ public class HelloWorld {
         // v3.0 (revised for hotfix)
     }
 
-<<<<<<< HEAD
-    
-
-=======
     private void f4(){
-        // v4.0 (under development )
+        // v4.0 (done )
     }
->>>>>>> newfeature
+
 }
